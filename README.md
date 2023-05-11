@@ -1,1 +1,1 @@
-# stock_script_forecast
+# Stock And Script Price Predictor
