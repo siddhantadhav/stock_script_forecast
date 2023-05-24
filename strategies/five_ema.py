@@ -1,0 +1,1 @@
+# This is a 5 EMA strategy which is used while trend reversals

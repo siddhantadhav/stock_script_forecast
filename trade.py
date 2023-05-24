@@ -1,0 +1,1 @@
+# Here we will get the buy or sell signals and perform real time buying and selling using Broker's API

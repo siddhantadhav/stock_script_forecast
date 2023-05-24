@@ -1,0 +1,23 @@
+The Goal is to create ultimate algo trading platform
+
+Ultimate Task:
+Create a regression model to predict the general direction of the market as per monthly, daily, 15 min, 5 min.
+
+Task 1:
+Get real time data of the script using API endpoints
+- Alpha Vantage
+
+Task 2:
+Perform real-time Open Interest Analysis (Non-Machine Learning Approach)
+
+Task 3:
+Perform FII/DII data analysis
+
+Task 4:
+Addition of strategies based on algorithms
+
+Task 5:
+Create a model which predicts the best strategy as per market conditons
+
+Task 5:
+Perform sentiment analysis such as VERY BULLISH, BULLISH, BEARISH, VERY BEARISH, Neutral
